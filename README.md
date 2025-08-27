@@ -1,2 +1,2 @@
-# realtimebidding
-Always learning!
+# Sequential Testing Implementation
+
